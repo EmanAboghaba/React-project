@@ -10,7 +10,7 @@ export function MovieCard({ movie }) {
   return (
     <Card
       style={{
-        width: "15rem",
+        width: "20rem",
         backgroundColor: "#1c1c1c",
         color: "#fff",
         border: "1px solid #9c9898",
@@ -27,7 +27,7 @@ export function MovieCard({ movie }) {
           variant="top"
           src="1.jpg"
           style={{
-            height: "200px",
+            height: "350px",
             objectFit: "cover",
           }}
         />
