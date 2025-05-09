@@ -46,10 +46,9 @@ export function App() {
     <div
       className="container"
       style={{
-        backgroundColor: "#000",
+      
         color: "#fff",
-        minHeight: "100vh",
-        minWidth: "100vw",
+       
       }}
     >
       <h1 className="text-center mb-5 fw-bold">Movies</h1>
